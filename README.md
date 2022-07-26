@@ -6,8 +6,4 @@ Some basic text again
 
 Added text for new feature
 
-<<<<<<< HEAD
-Hello world
-=======
-Hello there
->>>>>>> master
+Hello there world
